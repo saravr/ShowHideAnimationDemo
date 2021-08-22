@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">SlideAnimationDemo</string>
-    <string name="toggle">Toggle</string>
-    <string name="view_below">View BELOW</string>
+    <string name="toggle">Expand-Collapse</string>
+    <string name="view_below">View below collapsing view</string>
+    <string name="this_view_will_collapse_and_expand">This view will collapse and expand</string>
 </resources>

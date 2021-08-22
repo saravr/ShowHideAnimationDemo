@@ -15,29 +15,14 @@
         android:padding="4dp" >
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="text1" />
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#00ff00"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:text="@string/this_view_will_collapse_and_expand" />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="text2" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Слуга: text3" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="text4" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="text5" />
     </com.sandymist.showhideanimationdemo.CollapsibleLinearLayout>
 
     <TextView
