@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlideAnimationDemo</string>
+    <string name="toggle">Toggle</string>
+    <string name="view_below">View BELOW</string>
+</resources>
